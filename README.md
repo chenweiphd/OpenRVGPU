@@ -4,15 +4,11 @@
 
 OpenRVGPU是一个具备原生非对称FP8支持的开源GPU，兼容第5代张量核心指令集（tcgen05）。
 
-# 
+
 
 # 2 OpenRVGPU架构与ISA
 
-**代码路径：**
 
-**服务器192.168.17.108**
-
-**文件夹：opensocrun/ OpenRVGPUrun/ vortexdockerrun/vortex v3.0/sim/simx**
 
 
 
